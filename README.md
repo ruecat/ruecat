@@ -1,4 +1,4 @@
-### Aiwe 🐱🫡!
+### Sup 🐱🫡!
 I'm **Rikkichy**, doing some random stuff, for example:
 - `🧪` Experimenting with AI-related stuff
 - `🔧` Maintaining GNU/Linux servers
